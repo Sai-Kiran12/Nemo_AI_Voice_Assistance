@@ -1,0 +1,16 @@
+# Install required libraries using pip
+pip install pyttsx3  # pyttsx3 is a text-to-speech conversion library in Python
+pip install SpeechRecognition   # SpeechRecognition library is used to recognize speech from an audio source and convert it into text
+pip install webbrowser  # webbrowser library is used to open a web browser and navigate to a specified URL
+pip install pywhatkit  # pywhatkit library is used to perform various tasks using the WhatsApp API, including sending messages and images to specified contacts
+pip install wikipedia  # wikipedia library is used to interact with the Wikipedia API and retrieve information from Wikipedia pages
+pip install playsound  # playsound library is used to play a sound file
+pip install keyboard  # keyboard library is used to control the keyboard and mouse
+pip install pytube  # pytube library is used to download YouTube videos
+pip install pyjokes  # pyjokes library is used to generate random jokes
+pip install googletrans  # googletrans library is used to perform text translation using the Google Translate API
+pip install geopy  # geopy library is used to perform geolocation operations, including distance calculations and location lookups
+pip install geocoder  # geocoder library is used to retrieve location information from a specified
+pip install BeautifulSoup4  # beautifulsoup4 library is used to parse HTML and XML documents.
+pip install pywin32  # winshell library is used to interact with the Windows shell, including creating shortcuts and accessing the Recycle Bin
+pip install pyautogui  # pyautogui library is used to perform GUI automation tasks, including mouse and keyboard control
